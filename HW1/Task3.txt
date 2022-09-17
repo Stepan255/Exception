@@ -1,0 +1,4 @@
+После изучения кода было полученно 3 разных типов исключений:
+    ArrayIndexOutOfBoundsException
+    NullPointerException
+    NumberFormatException
